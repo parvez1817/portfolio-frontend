@@ -5,7 +5,7 @@ import ImageCarousel from '@/components/ImageCarousel';
 import img1 from '@/assets/f.jpg';
 import img2 from '@/assets/fff.jpg';
 import img3 from '@/assets/ffff.jpg';
-import img4 from '@/assets/fffff.jpg';
+import img4 from '@/assets/fffff.png';
 import img5 from '@/assets/brain.jpg';
 import img6 from '@/assets/mum.jpg';
 const projects = [{
